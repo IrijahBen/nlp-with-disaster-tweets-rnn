@@ -1,4 +1,4 @@
-# nlp-with-disaster-tweets-rnn
+# nlp-with-disaster-tweets-rnn : https://www.kaggle.com/competitions/nlp-getting-started
 # Disaster Tweets Classification with GRUs
 
 This project addresses the challenge of automatically identifying disaster-related tweets from the large volume of daily tweets. It utilizes Natural Language Processing (NLP) techniques and Recurrent Neural Networks (RNNs), specifically Gated Recurrent Units (GRUs), to classify tweets as either reporting a real disaster or using disaster-related terms in a figurative context.
